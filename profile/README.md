@@ -1,3 +1,3 @@
-GitHub Copilot license management for Schuberg Philis
+GitHub Copilot license management for Schuberg Philis Labs
 
-See https://github.com/schubergphilis for our main open source presence.
+See https://github.com/LAB271 for our main open source presence.
